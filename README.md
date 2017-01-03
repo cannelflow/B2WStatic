@@ -1,2 +1,2 @@
-#Finnal Static Website For WordPress Theme Development with Bootstrap 
+#Final Static Website For WordPress Theme Development with Bootstrap 
 ##By Brad Hussy
